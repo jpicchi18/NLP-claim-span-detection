@@ -11,7 +11,7 @@ The encoder-decoder models performed reasonably well, but they were inferior to 
 
 See report.pdf for a detailed discussion of the task, methods, results, and Analysis.
 
-### Data
+### data
 Contains the original data for the task, as well as modified datasets that were used along the way.
 
 ### latex-files
